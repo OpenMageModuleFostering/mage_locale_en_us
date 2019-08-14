@@ -1,7 +1,7 @@
 {
     "name": "OpenMageModuleFostering/Mage_Locale_en_US",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "AFL-v3.0",
     "homepage": "",
     "description": "en_US locale",
     "authors": [
